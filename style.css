@@ -1,0 +1,148 @@
+body
+{
+	background: black;
+	color:#99f8f4
+}
+*{	
+	margin: 0;
+	padding: 0;
+}
+ul {
+ position: fixed;
+ border-right: 1px solid white;
+ height: 800px;
+}
+ul li a{
+	
+	text-decoration: none;
+	color: white;
+	margin-left: 10px;
+	font-size: 15px;
+	padding: 10px;
+font-family: 'Fuzzy Bubbles', cursive;
+
+}
+ul li{
+	list-style-type: none;	
+	/*float: left;*/ 
+	margin-top: 70px;
+}
+ul li a:hover{
+	background-color: white;
+	color: black;
+	border-radius: 50px;
+	font-weight: 800;
+};
+}body{
+	background-color: black;
+	color: white;
+}
+*{	
+	margin: 0;
+	padding: 0;
+}
+ul {
+ position: fixed;
+ border-right: 1px solid #F9E79F;
+ height: 800px;
+}
+ul li a{
+	
+	text-decoration: none;
+	color: white;
+	margin-left: 10px;
+	font-size: 15px;
+	padding: 10px;
+font-family: 'Fuzzy Bubbles', cursive;
+
+}
+ul li{
+	list-style-type: none;	
+	/*float: left;*/ 
+	margin-top: 70px;
+}
+ul li a:hover{
+	background-color: white;
+	color: black;
+	border-radius: 50px;
+	font-weight: 800;
+}
+ul p , ul a , .cre{
+
+
+	text-decoration: none;
+	color: white;
+	margin-left: 10px;
+	font-size: 10px;
+	padding: 10px;
+font-family: 'Fuzzy Bubbles', cursive;
+fon:;
+
+}
+ul a , .cre:hover{
+	color: orangered;
+	font-weight: bolder;
+}
+
+
+h1 , h2 , h3 , h4 , h5 , h6{
+	color: lightsalmon;
+	font-weight: bolder;
+	border-bottom: 1px solid lightsalmon;
+	display: inline-block;
+	padding: 5px;
+	font-family: 'Nanum Pen Script', cursive;	
+}
+.container {
+	margin-left: 120px;;
+}
+p {
+	color: #D0ECE7;
+	font-size: 14px;
+	font-family: 'IBM Plex Mono', monospace;
+	font-weight:bold;
+
+
+}
+h1{
+	font-size: 40px;
+}
+h2{
+	font-size: 38px;
+}
+h3{
+	font-size: 36px;
+}
+h4{
+	font-size: 32px;
+}
+h5{
+	font-size: 30px;
+}
+h6{
+	font-size: 28px;
+}
+.cre{
+	font-size: 14px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
